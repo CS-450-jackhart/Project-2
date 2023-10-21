@@ -1,0 +1,9 @@
+﻿  sample.cpp
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(372,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(373,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(376,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(378,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(889,99): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jackh\Documents\School\CS 450\Project-2\sample.cpp(889,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\jackh\Documents\School\CS 450\Project-2\Debug\Sample.exe
